@@ -9,8 +9,7 @@ export default async function Dogs() {
     <div className="dog">
       <h2>Dogs</h2>
       <p>
-        {" "}
-        Here's an API to fetch 10 random dog images:{" "}
+        Here's an API to fetch 10 random dog images:
         <a href="https://dog.ceo/api/breeds/image/random/10">
           https://dog.ceo/api/breeds/image/random/10
         </a>
